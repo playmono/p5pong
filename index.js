@@ -48,14 +48,14 @@ const stadium = {
         textSize(12);
         fill('white');
 
-        // Draw "Tamaño de la pelota" text
-        text("Tamaño paleta", canvas.w/4, canvas.h - 60);
+        // Draw "Player size" text
+        text("Player size", canvas.w/4, canvas.h - 60);
 
-        // Draw "Velocidad pelota" text
-        text("Velocidad pelota", canvas.w/2, canvas.h - 60);
+        // Draw "Ball speed" text
+        text("Ball speed", canvas.w/2, canvas.h - 60);
 
-        // Draw "Velocidad enemigo" text
-        text("Velocidad enemigo", canvas.w/2 + canvas.w/4, canvas.h - 60);
+        // Draw "Enemy speed" text
+        text("Enemy speed", canvas.w/2 + canvas.w/4, canvas.h - 60);
     }
 };
 const player = {
