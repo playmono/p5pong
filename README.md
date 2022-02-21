@@ -4,7 +4,7 @@ A pong game made with [p5js](https://p5js.org/).
 I made the game as part of the work for the "Web programming" subject at the [UOC University](https://www.uoc.edu/portal/en/index.html).
 
 ### Play
-Just download the project and open the `index.html` in a browser or just [play it online](https://playmono.github.io/p5pong/)
+Download the project and open the `index.html` in a browser or just [play it online](https://playmono.github.io/p5pong/)
 
 ### Features
 1. **Player size**: as long as this value grows, the player size will become smaller.
